@@ -1,6 +1,6 @@
 function Mod:preInit()
     DONE_ONCE = nil
-    SHOWCASE = true
+    SHOWCASE = false
 end
 
 function Mod:load(...)
