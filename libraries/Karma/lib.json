@@ -1,0 +1,9 @@
+{
+    "id": "karma",
+    "version": "1.0.0",
+    "engineVersion": "0.8.1-dev",
+    "config": {
+        "damage_style": "all",
+        "display_kr": true
+    }
+}

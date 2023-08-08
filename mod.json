@@ -1,0 +1,30 @@
+{
+  "id": "bad_apple",
+  "name": "Bad Apple",
+  "subtitle": "",
+
+  "version": "v1.0.0",
+  "engineVer": "v0.8.1-dev",
+
+  "chapter": 2,
+
+  "encounter": "badapple",
+  "party": ["kris"],
+
+  "equipment": {
+    "kris": {
+      "weapon": "wood_blade",
+      "armor": [ "amber_card", "amber_card" ]
+    }
+  },
+
+  "transition": false,
+  "hardReset": false,
+  "hidden": false,
+
+  "config": {
+    "kristal": {
+      "growStronger": false
+    }
+  }
+}
